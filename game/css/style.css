@@ -1,0 +1,111 @@
+h1 {
+  color: blue;
+  font-size: 130px;
+  background: #00e600;
+  font-family: arial;
+ 
+}
+
+body{
+  background:#00e600;
+  display: black;
+  cursor: url('http://www.rw-designer.com/cursor-view/31250.png'), auto;  
+}
+
+
+button {
+  display: block;
+  font-size: 70px;
+}
+
+#enemy6 {
+  position: absolute;
+  top: 330px;
+  left: 60px;
+}
+
+#fire6 {
+  position: absolute;
+  top: 330px;
+  left: 60px; 
+}
+
+#enemy5 {
+  position: absolute;
+  left: 470px;
+  top: 110px;    
+}
+
+#fire5 {
+  position: absolute;
+  left: 470px;
+  top: 110px; 
+  
+}
+
+
+#enemy3 {
+  position: absolute;
+  left:360px;
+  top:200px;
+}
+
+#fire3 {
+  position: absolute;
+  left:360px;
+  top:200px;
+  
+}
+
+#enemy2 {
+  position: absolute;
+  left: 200px;
+  top: 0px;
+  
+}
+
+#fire2 {
+  position: absolute;
+  left: 200px;
+  top: 0px;
+  
+}
+
+
+#enemy1 {
+  position: absolute;
+    left: 00px;
+  top:140px;
+}
+
+#fire1 {
+   position: absolute;
+    left: 00px;
+  top:140px;
+  
+}
+
+#enemy7 {
+  position: absolute;
+  left: 400px;
+  top:300px;
+}
+
+#fire7 {
+   position: absolute;
+  left: 400px;
+  top:300px;
+}
+  
+#enemy8 {
+  position: absolute;
+  left: 00px;
+  top: 50px;
+}
+
+#fire8 {
+  position: absolute;
+  left: 00px;
+  top: 50px;
+  
+}
